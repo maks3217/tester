@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1581893176 source:c:\users\maks\desktop\c++tester\systemstart\main.cpp
+	<iostream>
+	<windows.h>
+	<list>
+	<iterator>
+	<dirent.h>
+	<sys/types.h>
+	<string>
+	<fstream>
+	<map>
+	<cstdio>
+	<stdlib.h>
+	<sstream>
+
